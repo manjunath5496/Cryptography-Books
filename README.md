@@ -16,7 +16,9 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Cryptography-Books/blob/master/ryp(10).pdf" style="text-decoration:none;">Cryptography and Coding </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cryptography-Books/blob/master/ryp(11).pdf" style="text-decoration:none;">Introduction to Cryptography: Principles and Applications </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Cryptography-Books/blob/master/ryp(12).pdf" style="text-decoration:none;">Theory of Cryptography </a></b></li>
 
 
 
